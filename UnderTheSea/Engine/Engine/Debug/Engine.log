@@ -1,0 +1,15 @@
+﻿  graphicsclass.cpp
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(55): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(111): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(370): warning C4101: 'mouseX': unreferenced local variable
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(370): warning C4101: 'mouseY': unreferenced local variable
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(414): warning C4101: 'originMatrix': unreferenced local variable
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(417): warning C4101: 'y': unreferenced local variable
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(412): warning C4101: 'ScaleMatrix': unreferenced local variable
+e:\u1759958_grime_jack\underthesea\engine\engine\graphicsclass.cpp(416): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  Compiling...
+  systemclass.cpp
+  main.cpp
+  Generating Code...
+  Engine.vcxproj -> E:\U1759958_GRIME_JACK\UnderTheSea\Engine\Debug\Engine.exe
